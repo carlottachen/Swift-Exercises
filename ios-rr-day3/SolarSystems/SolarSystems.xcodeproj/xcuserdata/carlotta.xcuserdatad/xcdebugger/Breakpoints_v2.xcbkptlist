@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "20B225D5-EEF6-4B02-A49B-E3DE555F1FEC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7F50FAF-8E6E-4D55-8FE7-F1CDA68B61A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SolarSystems/Controllers/PlanetDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "PlanetDetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D7F50FAF-8E6E-4D55-8FE7-F1CDA68B61A2 - 48942fb0d957847b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SolarSystems.PlanetDetailViewController.planetNameLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "SolarSystems"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carlotta/Desktop/SolarSystems/SolarSystems/Controllers/PlanetDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "D7F50FAF-8E6E-4D55-8FE7-F1CDA68B61A2 - 3e66bd24714c386f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SolarSystems.PlanetDetailViewController.planetNameLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "SolarSystems"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carlotta/Desktop/SolarSystems/SolarSystems/Controllers/PlanetDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "D7F50FAF-8E6E-4D55-8FE7-F1CDA68B61A2 - 2db9aef6351039d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SolarSystems.PlanetDetailViewController.planetNameLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "SolarSystems"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carlotta/Desktop/SolarSystems/SolarSystems/Controllers/PlanetDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "D7F50FAF-8E6E-4D55-8FE7-F1CDA68B61A2 - aff146e33a8a0fad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SolarSystems.PlanetDetailViewController.planetNameLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SolarSystems"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carlotta/Desktop/SolarSystems/SolarSystems/Controllers/PlanetDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "D7F50FAF-8E6E-4D55-8FE7-F1CDA68B61A2 - f027d39a2868bbed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SolarSystems.PlanetDetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SolarSystems.PlanetDetailViewController"
+                  moduleName = "SolarSystems"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carlotta/Desktop/SolarSystems/SolarSystems/Controllers/PlanetDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "D7F50FAF-8E6E-4D55-8FE7-F1CDA68B61A2 - 5712acaf904c4489"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SolarSystems.PlanetDetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SolarSystems.PlanetDetailViewController&gt;"
+                  moduleName = "SolarSystems"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carlotta/Desktop/SolarSystems/SolarSystems/Controllers/PlanetDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
